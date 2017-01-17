@@ -1,20 +1,20 @@
-Description du projet de benchtest de l'éolienne
+Description du projet de benchtest de l'Ã©olienne
 ================================================
 
-Le but du benchtest de l'éolienne est de pouvoir récolter des données sur l'ensemble de 
-l'éolienne (diffuseur, mat et pales) dans le but de faire une caractérisation physique
+Le but du benchtest de l'Ã©olienne est de pouvoir rÃ©colter des donnÃ©es sur l'ensemble de 
+l'Ã©olienne (diffuseur, mat et pales) dans le but de faire une caractÃ©risation physique
 de cet ensemble.
 
-Ce project est divisé deux parties majeurs: mécanique et électrique. Dans ce document,
-vous retrouverez une description de la partie électrique.
+Ce project est divisÃ© deux parties majeurs: mÃ©canique et Ã©lectrique. Dans ce document,
+vous retrouverez une description de la partie Ã©lectrique.
 
-Matériel requis:
+MatÃ©riel requis:
 - Torque meter (Model TRS605 de Futek)
 - Load cell
 - Actuateur
 - Backplane
 - Carte de drive de moteurs
-- Carte d'aquisition de données (avec carte SD)
+- Carte d'aquisition de donnÃ©es (avec carte SD)
 - Volant
 - Laptop (communication Skadi)
 
