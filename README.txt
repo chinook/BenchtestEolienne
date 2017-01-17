@@ -8,7 +8,8 @@ de cet ensemble.
 Ce project est divisé deux parties majeurs: mécanique et électrique. Dans ce document,
 vous retrouverez une description de la partie électrique.
 
-*Matériel requis:*
+--Matériel requis:--
+
 - Torque meter (Model TRS605 de Futek)
 - Load cell
 - Actuateur
